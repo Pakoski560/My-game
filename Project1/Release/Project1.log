@@ -1,0 +1,201 @@
+﻿  Boss.cpp
+C:\Users\pakos\Desktop\Project1\Project1\Boss.cpp(8,89): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Boss.cpp(8,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Boss.cpp(43,93): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Boss.cpp(44,119): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Bullet.cpp
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(8,89): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(8,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(18,89): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(18,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(54,84): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(54,56): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(56,24): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(55,62): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(58,29): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(57,62): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(59,89): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Bullet.cpp(59,56): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Enemy.cpp
+  GameOver.cpp
+  Main.cpp
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(255,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(290,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(527,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(884,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(901,29): warning C4267: "=": konwersja z "size_t" do "sf::Uint16", możliwa utrata danych
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(921,30): warning C4267: "=": konwersja z "size_t" do "sf::Uint16", możliwa utrata danych
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(938,29): warning C4267: "=": konwersja z "size_t" do "sf::Uint16", możliwa utrata danych
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1180,46): warning C4244: "argument": konwersja z "T" do "_Ty", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1179,95): warning C4244: "argument": konwersja z "T" do "_Ty", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1182,46): warning C4244: "argument": konwersja z "T" do "_Ty", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1181,95): warning C4244: "argument": konwersja z "T" do "_Ty", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1185,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1185,76): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1216,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1227,29): warning C4267: "=": konwersja z "size_t" do "sf::Uint16", możliwa utrata danych
+C:\Users\pakos\Desktop\Project1\Project1\Main.cpp(1244,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  MainMenu.cpp
+  MultiplayerJoinMenu.cpp
+  Player.cpp
+C:\Users\pakos\Desktop\Project1\Project1\Player.cpp(10,89): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Player.cpp(10,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\pakos\Desktop\Project1\Project1\Player.cpp(118,127): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Trwa generowanie kodu
+  127 of 434 functions (29.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Project1.vcxproj -> C:\Users\pakos\Desktop\Project1\Release\Project1.exe
